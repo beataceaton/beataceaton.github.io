@@ -23,12 +23,12 @@
     
     <header>
       <h1>
-	<a href="#home">B C Eaton</a>
+        <a href="#home">Site title</a>
       </h1>
       <nav>
         <a href="#about">About</a>
         <a href="#news">News</a>
-        <a href="#photos">Maps</a>
+        <a href="#photos">Photos</a>
         <a href="#portfolio">Portfolio</a>
       </nav>
     </header>
